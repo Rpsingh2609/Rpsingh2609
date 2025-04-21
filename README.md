@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajan Pratap Singh
 
 🎓 4th Year B.Tech Student  
-💻 Passionate about Data Structure & Algorithms | App Development | Data Analytics
+💻 Passionate about Data Structure & Algorithms | App Development | Data Analytics  
 🚀 Actively building and learning through real-world projects
 
 ## 📂 About My GitHub
