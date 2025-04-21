@@ -13,8 +13,6 @@ I’ve been working on projects throughout my B.Tech journey — recently, I’v
 - DataBase:  MongoDB, Firebase, SQL
 - Tools: Git, GitHub, VS Code
 
-## 📌 Featured Projects
-
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/rajan-pratap-singh-717689256
